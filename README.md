@@ -35,10 +35,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
 </p>
 
-<p align="right"> 
+<h1 align="left"> 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
-</p>
-<br><br>
+</h1>
+
 
 <h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
