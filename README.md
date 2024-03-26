@@ -1,13 +1,13 @@
 <h2 align="left">Hi! Arnau here👋</h2>
 <p align="left">
 
-<p>🧠   By now I'm having an exiting journey learning frontend development </p>
-<p>🌱   and I'm currently learning web development at Technigo. </p>
-<p>👀   I'm looking for help to learn the best practices </p>
-<p>⚒    and Working on gaining tech skills. </p>
-<p>💬   Ask me why I changed career </p>
+<p>🧠   and I'm having an exciting journey learning frontend development </p>
+<p>🌱   I'm coursing a web development bootcamp at Technigo. </p>
+<p>👀   I'm looking for help to learn best practices </p>
+<p>⚒    in order to gain new and more tech skills. </p>
+<p>💬   Ask me why I'm changing career </p>
 <p>⚡   Some fact that you don't really need to know: </p>
-<p>      My cousins and I have the same mole, heritage from our great-grandmother. </p>
+<p>      My cousins and I have the same mole, heritage from our grandmother. </p>
    
 </p>
 <h2 align="left">Connect with me</h2>
