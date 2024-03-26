@@ -1,13 +1,13 @@
 <h2 align="left">Hi! my name is Arnau. 👋</h2>
 <p align="left">
 
-<p>🧠 By now I'm passionate learning about frontend development </p>
-<p>🌱 I'm currently learning web development at Technigo </p>
-<p>👀 I'm looking for help with best practices </p>
-<p>⚒  and Working on gaining tech skills </p>
-<p>💬 Ask me why I changed career </p>
-<p>⚡ Some weird fact that you don't really need to know: </p>
-<p>   My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
+<p>🧠   By now I'm passionate learning about frontend development </p>
+<p>🌱   I'm currently learning web development at Technigo </p>
+<p>👀   I'm looking for help with best practices </p>
+<p>⚒    and Working on gaining tech skills </p>
+<p>💬   Ask me why I changed career </p>
+<p>⚡   Some weird fact that you don't really need to know: </p>
+<p>       My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
    
 </p>
 
@@ -31,8 +31,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  
    
 </p>
 
