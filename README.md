@@ -39,9 +39,9 @@
 <h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
-<p>Years ago I had an arduino hobby.
-
-</p>
+<p>Years ago I had an arduino hobby.</p>
+<p>I move arround with an EUC.</p>
+<p>I have B car licence.</p>
 
 <h2 align="left">A coffe will always be wellcome</h2>
 <p><a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a></p><br><br>
