@@ -35,9 +35,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
 </p>
 
-<h1 align="left"> 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
-</h1>
+<div align="left"> 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix height="500"/>
+   <h1></h1>
+</div>
 
 
 <h2 align="left">Others</h2>
