@@ -6,8 +6,7 @@
 <p>👀   I'm looking for help to learn best practices </p>
 <p>⚒    in order to gain more tech skills. </p>
 <p>💬   Ask me why I'm changing career. </p>
-<p>⚡   Some fun fack: </p> 
-<p>     My lovely father is a dentist with the worth theeth you could ever imagine. </p>
+<p>⚡   Some fun fack: My lovely father is a dentist with the worth theeth you could ever imagine. </p>
    
 </p>
 <h2 align="left">Connect with me</h2>
