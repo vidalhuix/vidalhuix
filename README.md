@@ -1,17 +1,14 @@
 <h2 align="left">👋Hi! I'm Arnau</h2>
-<p align="left">By now I'm passionate leaning about frontend development.</p>
+<p align="left">.</p>
 
 
-
-👀 Always apreciative on help and tips on best practices
-
-🌱 Currently learning Web development @Technigo
-
-⚒ Working on gaining tech skills
-
+🧠 By now I'm passionate learning about frontend development 
+🌱 currently learning Web development @Technigo
+👀 I'm looking for help in best practices
+⚒  and Working on gaining tech skills
 💬 Ask me why I changed career
-
-⚡ Fun fact: My cousins and I have the same mole above our belly buttons, heritage from our great-grandmother.
+⚡ Wierd fact that you don't need to know:
+   My cousins and I have the same mole above the belly button, heritage from our great-grandmother.
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
