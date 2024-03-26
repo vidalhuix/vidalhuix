@@ -1,13 +1,10 @@
 <h2 align="left">Hi 👋, I'm Arnau</h2>
-<h4 align="left">Passionate frontend developer born by the mediterranean sea and living in the north of europe since 2012.</h4>
-
+<h4 align="left">By now I'm a passionate frontend developer living in the north of europe.</h4>
 
 
 🌱 I’m currently learning Web development @Technigo
 
-💬 Ask me about **HTML, CSS, JS, REACT** or why I changed carrer
-
-📄 Know about my experiences [Here](Here)
+💬 Ask me about HTML, CSS, JS, REACT or why I changed carrer
 
 ⚡ Fun fact: My cousins and I have the same mole above our belly buttons, a heritage from our great-grandmother.
 
