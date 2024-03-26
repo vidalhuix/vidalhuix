@@ -19,7 +19,7 @@
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">    
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
@@ -37,7 +37,14 @@
 
 <div align="left"> 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix height="500"/>
-   <h1></h1>
+   <h1>.
+
+
+
+
+
+      .
+   </h1>
 </div>
 
 
