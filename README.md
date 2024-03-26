@@ -6,8 +6,7 @@
 <p>👀 I'm looking for help in best practices </p>
 <p>⚒  and Working on gaining tech skills </p>
 <p>💬 Ask me why I changed career </p>
-<p>⚡ Wierd fact that you don't need to know: </p>
-<p>   My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
+<p>⚡ Wierd fact that you don't need to know: My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
    
 </p>
 
