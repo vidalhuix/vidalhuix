@@ -1,12 +1,12 @@
-<h2 align="left">👋Hi! my name is Arnau</h2>
+<h2 align="left">Hi! my name is Arnau. 👋</h2>
 <p align="left">
 
 <p>🧠 By now I'm passionate learning about frontend development </p>
-<p>🌱 I'm currently learning Web development @Technigo </p>
-<p>👀 I'm looking for help in best practices </p>
+<p>🌱 I'm currently learning web development at Technigo </p>
+<p>👀 I'm looking for help with best practices </p>
 <p>⚒  and Working on gaining tech skills </p>
 <p>💬 Ask me why I changed career </p>
-<p>⚡ Some wierd fact that you don't really need to know: </p>
+<p>⚡ Some weird fact that you don't really need to know: </p>
 <p>   My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
    
 </p>
@@ -41,7 +41,7 @@
 <p>On the way of learning my fifth spoken language.</p>
 <p>Years ago I had an arduino hobby.</p>
 
-<h2 align="left">A coffe will always be belcome</h2>
+<h2 align="left">A coffe will always be wellcome</h2>
 <p><a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a></p><br><br>
 
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
