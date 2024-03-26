@@ -1,13 +1,13 @@
-<h2 align="left">Hi! my name is Arnau. 👋</h2>
+<h2 align="left">Hi! Arnau here👋</h2>
 <p align="left">
 
-<p>🧠   By now I'm passionate learning about frontend development </p>
-<p>🌱   I'm currently learning web development at Technigo </p>
-<p>👀   I'm looking for help with best practices </p>
+<p>🧠   By now I'm having an exiting journey learning frontend development </p>
+<p>🌱   and I'm currently learning web development at Technigo. </p>
+<p>👀   I'm looking for help to learn the best practices </p>
 <p>⚒    and Working on gaining tech skills </p>
 <p>💬   Ask me why I changed career </p>
-<p>⚡   Some weird fact that you don't really need to know: </p>
-<p>       My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
+<p>⚡   Some fact that you don't really need to know: </p>
+<p>      My cousins and I have the same mole, heritage from our great-grandmother. </p>
    
 </p>
 
@@ -33,21 +33,18 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
+<h1></h1>
 </p>
-<p>
-   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix height="500"/>
+<p align="right">
+   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
+<p>. </p>
+<p>. </p>
+<p>. </p>
+<p>. </p>
+<p>. </p>
 </p>
 
-
-
-
-<h2 align="left">.
-   
-   
-   
-   
-   
-   Others</h2>
+<h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
 <p>Years ago I had an arduino hobby.</p>
@@ -55,8 +52,10 @@
 <p>I have B car licence.</p>
 
 <h2 align="left">A coffe will always be wellcome</h2>
-<p><a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a></p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
+<p>
+   <a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
 <!---
 vidalhuix/vidalhuix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
