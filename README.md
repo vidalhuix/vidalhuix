@@ -1,12 +1,12 @@
-<h2 align="left">👋Hi! I'm Arnau</h2>
+<h2 align="left">👋Hi! my name is Arnau</h2>
 <p align="left">
 
 <p>🧠 By now I'm passionate learning about frontend development </p>
-<p>🌱 currently learning Web development @Technigo </p>
+<p>🌱 I'm currently learning Web development @Technigo </p>
 <p>👀 I'm looking for help in best practices </p>
 <p>⚒  and Working on gaining tech skills </p>
 <p>💬 Ask me why I changed career </p>
-<p>⚡ Wierd fact that you don't need to know: </p>
+<p>⚡ Some wierd fact that you don't really need to know: </p>
 <p>   My cousins and I have the same mole above the belly button, heritage from our great-grandmother. </p>
    
 </p>
