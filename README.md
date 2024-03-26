@@ -35,9 +35,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
 </p>
 
-<div> 
+<p align="left"> 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
-</div>
+</p>
 <br><br>
 
 <h2 align="left">Others</h2>
@@ -49,9 +49,6 @@
 
 <h2 align="left">A coffe will always be wellcome</h2>
 <p><a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a></p><br><br>
-<p> </p>
-<p> </p>
-<p> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
 <!---
