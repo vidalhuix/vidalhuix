@@ -33,14 +33,21 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
+</p>
+<p>
    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix height="500"/>
 </p>
 
 
 
 
-
-<h2 align="left">Others</h2>
+<h2 align="left">.
+   
+   
+   
+   
+   
+   Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
 <p>Years ago I had an arduino hobby.</p>
