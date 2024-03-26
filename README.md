@@ -39,12 +39,16 @@
 <h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
-<p>Years ago I had an arduino hobby.</p>
+<p>Years ago I had an arduino hobby.
+
+</p>
 
 <h2 align="left">A coffe will always be wellcome</h2>
 <p><a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a></p><br><br>
-
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
 <!---
 vidalhuix/vidalhuix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
