@@ -4,17 +4,15 @@
 <p>🧠   By now I'm having an exiting journey learning frontend development </p>
 <p>🌱   and I'm currently learning web development at Technigo. </p>
 <p>👀   I'm looking for help to learn the best practices </p>
-<p>⚒    and Working on gaining tech skills </p>
+<p>⚒    and Working on gaining tech skills. </p>
 <p>💬   Ask me why I changed career </p>
 <p>⚡   Some fact that you don't really need to know: </p>
 <p>      My cousins and I have the same mole, heritage from our great-grandmother. </p>
    
 </p>
-
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" height="30" width="40" /></a>
-   
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" height="30" width="40" /></a>   
 </p>
 
 <h2 align="left">Languages and Tools</h2>
@@ -22,8 +20,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
-   
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>    
 </p>
 
 <p align="left">
@@ -35,6 +32,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
 <h1></h1>
 </p>
+
 <p align="right">
    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
 <p>. </p>
