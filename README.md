@@ -36,6 +36,12 @@
    
 </p>
 
+<div> <a href="https://github.com/vidalhuix" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+</p>
+
 <h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
