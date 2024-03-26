@@ -35,7 +35,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>    
 </p>
 
-<p align="left"> 
+<p align="right"> 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
 </p>
 <br><br>
