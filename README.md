@@ -42,6 +42,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 </p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalhuix&layout=compact&theme=dark" alt=vidalhuix />
+
 <h2 align="left">Others</h2>
 <p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
 <p>On the way of learning my fifth spoken language.</p>
