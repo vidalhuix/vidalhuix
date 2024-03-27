@@ -4,7 +4,7 @@
 <p>🧠   I'm a junior web developer on an exciting learning journey </p>
 <p>🌱   I'm coursing a web development bootcamp at Technigo. </p>
 <p>👀   I'm looking for help to learn best practices </p>
-<p>⚒    in order to gain more tech skills. </p>
+<p>⚒    and gain more tech skills. </p>
 <p>💬   I'm always interested in cool stuff.
 Do you want to discuss a project? </p>
    
