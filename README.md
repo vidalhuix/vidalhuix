@@ -5,8 +5,8 @@
 <p>🌱   I'm coursing a web development bootcamp at Technigo. </p>
 <p>👀   I'm looking for help to learn best practices </p>
 <p>⚒    in order to gain more tech skills. </p>
-<p>💬   Ask me why I'm changing career. </p>
-<p>⚡   Some fun fack: My lovely father is a dentist with the worth theeth you could ever imagine. </p>
+<p>💬   I'm always interested in cool stuff.
+Do you want to discuss a project? </p>
    
 </p>
 <h2 align="left">Connect with me</h2>
