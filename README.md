@@ -47,10 +47,6 @@ Do you want to discuss a project? </p>
 <p>Years ago I had an arduino hobby.</p>
 <p>I like to move around with my EUC.</p>
 
-<h2 align="left">A coffe will always be wellcome</h2>
-<p>
-   <a href="https://www.buymeacoffee.com/Arnau Vidal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arnau Vidal" /></a>
-</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
 <!---
