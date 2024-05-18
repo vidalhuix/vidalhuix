@@ -2,16 +2,16 @@
 <p align="left">
 
 <p>🧠   I'm a junior web developer on an exciting learning journey </p>
-<p>🌱   I'm coursing a web development bootcamp at Technigo. </p>
-<p>👀   I'm looking for help to learn best practices </p>
+<p>🌱   I'm finishing a web development bootcamp at Technigo. </p>
+<p>👀   I'm looking to learn best practices </p>
 <p>⚒    and gain more tech skills. </p>
 <p>💬   I'm always interested in cool stuff.
-Do you want to discuss a project? </p>
+Do you want to talk? </p>
    
 </p>
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" height="30" width="40" /></a>   
+<a href="https://www.linkedin.com/in/arnau-vidal-4266a940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnau-vidal-i-huix-4266a940/" height="30" width="40" /></a>   
 </p>
 
 <h2 align="left">Languages and Tools</h2>
@@ -42,10 +42,10 @@ Do you want to discuss a project? </p>
 </p>
 
 <h2 align="left">Others</h2>
-<p>Proficient in 3D, 2D and image editing software: Sketchup, Revit, AutoCad, Illustrator, Photoshop.</p>
+<p>I have a background in architecture. I'm proficient in 3D, 2D and image editing software.</p>
 <p>On the way of learning my fifth spoken language.</p>
 <p>Years ago I had an arduino hobby.</p>
-<p>I like to move around with my EUC.</p>
+<p>I like to comute with my monocicly</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
