@@ -45,7 +45,7 @@ Do you want to talk? </p>
 <p>I have a background in architecture. I'm proficient in 3D, 2D and image editing software.</p>
 <p>On the way of learning my fifth spoken language.</p>
 <p>Years ago I had an arduino hobby.</p>
-<p>I like to comute with my monocicly</p>
+<p>I like to comute with my monocycle</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vidalhuix&label=Profile%20views&color=0e75b6&style=flat" alt="vidalhuix" /> </p>
 
