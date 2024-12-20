@@ -1,8 +1,8 @@
 <h2 align="left">Hi! Arnau here👋</h2>
 <p align="left">
 
-<p>🧠   I'm a junior web developer on an exciting learning journey </p>
-<p>🌱   I'm finishing a web development bootcamp at Technigo. </p>
+<p>🧠   I'm a web developer on an exciting learning journey </p>
+<p>🌱   I finish my practice at Campusbokhandeln</p>
 <p>👀   I'm looking to learn best practices </p>
 <p>⚒    and gain more tech skills. </p>
 <p>💬   I'm always interested in cool stuff.
