@@ -2,7 +2,7 @@
 <p align="left">
 
 <p>🧠   I'm a web developer on an exciting learning journey </p>
-<p>🌱   I finish my practice at Campusbokhandeln</p>
+<p>🌱   I finished my practice at Campusbokhandeln</p>
 <p>👀   I'm looking to learn best practices </p>
 <p>⚒    and gain more tech skills. </p>
 <p>💬   I'm always interested in cool stuff.
